@@ -1,4 +1,4 @@
-# FLINT
+# FLINT  modulescript
 
 <img src="https://wiki.minetest.net/images/2/2e/Flint.png" alt="Flint - Minetest Wiki"/>
 
@@ -11,4 +11,3 @@ description:
 - remoteEvents
 - leaderstats
 - Killing
-

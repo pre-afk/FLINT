@@ -1,5 +1,7 @@
 # FLINT
-<img src="https://wiki.minetest.net/images/2/2e/Flint.png")
+
+<img src="https://wiki.minetest.net/images/2/2e/Flint.png" alt="Flint - Minetest Wiki"/>![image]
+
 
 A modulescript for roblox to make development easy and simple!
 

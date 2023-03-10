@@ -1,7 +1,6 @@
 # FLINT  modulescript
 
-<img src="https://github.com/pre-afk/FLINT/blob/main/Icon.png?raw=true" alt="Icon.png"/>
-
+<img src="https://wiki.minetest.net/images/2/2e/Flint.png" alt="Flint - Minetest Wiki"/>
 
 description:
 **A modulescript for roblox exploiting, making roblox scripts for hacking games easy.**

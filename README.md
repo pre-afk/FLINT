@@ -1,6 +1,6 @@
 # FLINT  modulescript
 
-<img src="https://wiki.minetest.net/images/2/2e/Flint.png" alt="Flint - Minetest Wiki"/>
+<img src="https://github.com/pre-afk/FLINT/blob/main/Icon.png?raw=true" alt="Icon.png"/>
 
 
 description:

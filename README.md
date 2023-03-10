@@ -4,10 +4,10 @@
 
 
 description:
-**A modulescript for roblox to make development easy and simple!**
+**A modulescript for roblox exploiting, making roblox scripts for hacking games easy.**
 
 
 **Current list of uses:**
-- remoteEvents
-- leaderstats
-- Killing
+- running remoteEvents
+- Teleporting
+

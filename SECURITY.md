@@ -1,6 +1,8 @@
 # Security Policy
 
+When a red X (:x:) is next to the version you are using, it means the version of the script has bugs and security vulnerabilities, like getting patched by antivirus or scripts not working properly due to many factors, like Roblox Updating and my scripting.
 
+When the version has a green check (:white_check_mark:) it's save to use and no reported bugs or vulnerabilities.
 
 ## Supported Versions
 
@@ -9,15 +11,8 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 0.1.x   | :x:   Known bugs   |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+In order to report a vulnerability, go to the issues tab and open a issue. I'll get to it as soon as I see it.

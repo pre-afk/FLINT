@@ -11,3 +11,4 @@ description:
 - Teleporting
 
 https://github.com/pre-afk/FLINT/blob/main/how-to-use.md
+how-to-use.md

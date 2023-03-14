@@ -1,10 +1,12 @@
 Current commands
+
 🔴 = not working or buggy
+
 🟢 = working
 
-|----------|
-|          |
-|          |
+| RemoteEvent | 🟢   |
+| ------- | ------------------ |
+|         |                    |
 
 # RemoteEvents
 *I'll make a remoteEvent fire command that fires a table, which gets unpacked later on and each arg fired in order of table.*

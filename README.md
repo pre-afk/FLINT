@@ -12,3 +12,4 @@ description:
 
 https://github.com/pre-afk/FLINT/blob/main/how-to-use.md
 how-to-use.md
+https://github.com/pre-afk/FLINT/blob/4ec5974a284a8d187fc577275d52d6a84661d930/how-to-use.md

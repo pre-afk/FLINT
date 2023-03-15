@@ -1,5 +1,10 @@
 # Security Policy
 
+
+
+
+# Vulnerability
+
 When a red X (:x:) is next to the version you are using, it means the version of the script has bugs and security vulnerabilities, like getting patched by antivirus or scripts not working properly due to many factors, like Roblox Updating and my scripting.
 
 When the version has a green check (:white_check_mark:) it's save to use and no reported bugs or vulnerabilities.
